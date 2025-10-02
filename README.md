@@ -23,7 +23,7 @@
 
 ## Environment Setup
 
-To setup the environment, run;
+To setup the environment, run:
 ```
 conda env create -f env.yml
 conda activate dllmAtt
