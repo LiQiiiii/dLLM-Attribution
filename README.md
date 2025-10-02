@@ -3,6 +3,13 @@
     <p>The first model attribution pipeline tailored for dLLMs, fully leveraging their decoding trajectories.</p>
 </div>
 
+<div align="center">
+
+[![Paper](https://img.shields.io/badge/Paper-PDF-red)](media/paper.pdf)
+
+</div>
+
+
 <table>
     <tr>
         <td align="center">
