@@ -6,11 +6,11 @@
 <table>
     <tr>
         <td align="center">
-            <img src="media/DDM_fig.png" width="70%">
+            <img src="media/DDM_fig.png" width="60%">
             <p><strong>Step 1.</strong> Use Directed Decoding Map (DDM) to capture structural and cross-step dependencies within the decoding trajectory of dLLMs.</p>
         </td>
         <td align="center">
-            <img src="media/GTA_fig.png" width="80%">
+            <img src="media/GTA_fig.png" width="85%">
             <p><strong>Step 2.</strong> Use Gaussian-Trajectory Attribution (GTA) to calculate the likelihood and attribute a specific response to its corresponding model. </p>
         </td>
     </tr>
