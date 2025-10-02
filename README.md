@@ -3,7 +3,6 @@
     <p>The first model attribution pipeline tailored for dLLMs, fully leveraging their decoding trajectories.</p>
 </div>
 
-
 <table>
     <tr>
         <td align="center">
@@ -11,7 +10,7 @@
             <p><strong>Step 1.</strong> Use Directed Decoding Map (DDM) to capture structural and cross-step dependencies within the decoding trajectory of dLLMs.</p>
         </td>
         <td align="center">
-            <img src="src/figures/neulig_train_pip.png" width="80%">
+            <img src="media/GTA_fig.png" width="80%">
             <p><strong>Step 2.</strong> Use Gaussian-Trajectory Attribution (GTA) to calculate the likelihood and attribute a specific response to its corresponding model. </p>
         </td>
     </tr>
