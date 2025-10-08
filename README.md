@@ -5,8 +5,6 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2510.05148)
-
 <a target="_blank" href="https://arxiv.org/abs/2510.05148">
   <img src="https://img.shields.io/badge/arXiv-2506.03179v1-b31b1b.svg" alt="arXiv Paper"/>
 </a>
