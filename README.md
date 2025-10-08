@@ -81,6 +81,11 @@ The evaluation code is in `main_attribution.py`. Just run `python main_attributi
 If you find this work useful or interesting, please consider citing:
 
 ```bibtex
-Coming soon.
+@article{li2025every,
+  title={Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs},
+  author={Li, Qi and Yu, Runpeng and Lu, Haiquan and Wang, Xinchao},
+  journal={arXiv preprint arXiv:2510.05148},
+  year={2025}
+}
 ```
 
