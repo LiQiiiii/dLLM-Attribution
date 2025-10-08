@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs</h1>
+    <h1><a href="https://arxiv.org/abs/2510.05148" target="_blank">Every Step Counts: Decoding Trajectories as Authorship Fingerprints of dLLMs</a></h1>
     <p>The first model attribution pipeline tailored for dLLMs, fully leveraging their decoding trajectories.</p>
 </div>
 
