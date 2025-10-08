@@ -14,12 +14,11 @@
 <div align="center">
 Qi Li&emsp;Runpeng Yu&emsp;Haiquan Lu&emsp;Xinchao Wang<sup>&dagger;</sup>
 </div>
-<div>
+<div  align="center">
     <a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>, National University of Singapore&emsp;
     <sup>&dagger;</sup>corresponding author 
 </div>
-</div>
-</div>
+
 
 ------------------
 
