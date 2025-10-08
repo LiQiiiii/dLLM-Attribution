@@ -5,9 +5,10 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](media/paper.pdf)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2510.05148)
 
 </div>
+
 
 
 <table>
